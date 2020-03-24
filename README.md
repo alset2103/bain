@@ -1,5 +1,5 @@
 # Tagebucheinträge
-* Block 1 vom 13.03.20
+* [Block 1 vom 13.03.20](13.03.20.md)
 * Block 2 vom 03.04.20
 * Block 3 vom 15.05.20
 * Block 4 vom 05.06.20
